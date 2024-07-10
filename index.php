@@ -10,21 +10,6 @@
     <meta name="keywords" content="Frutin - Organic and Healthy Food HTML Template">
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-
-    <!-- <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
-    <link rel="manifest" href="assets/img/favicons/manifest.json"> -->
     <link rel="icon" href="assets/img/favicons/favicon.ico">
 
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -141,10 +126,8 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="icon-box"><button data-slider-prev="#heroSlider2" class="slider-arrow default"><i
-                    class="far fa-arrow-left"></i></button> <button data-slider-next="#heroSlider2"
-                class="slider-arrow default"><i class="far fa-arrow-right"></i></button></div> -->
     </div>
+
     <div class="overflow-hidden space" id="about-sec">
         <div class="container">
             <div class="row align-items-center">
@@ -184,28 +167,6 @@
         </div>
     </div>
 
-    <!-- 
-    <section class="space-bottom">
-        <div class="container z-index-common">
-            <div class="row gy-30">
-                <div class="col-xxl-4 col-lg-5">
-                    <div class="offer-card mega-hover" data-bg-src="assets/img/bg/cta_bg_2_1.jpg"><span
-                            class="h6 box-subtitle">Get Extra <span class="text-theme">50% Off</span></span>
-                        <h3 class="box-title">Fresh Vegetable &<br>Organic Fruits</h3><a href="shop-details.html"
-                            class="th-btn">Shop Now<i class="fas fa-chevrons-right ms-2"></i></a>
-                    </div>
-                </div>
-                <div class="col-xxl-8 col-lg-7">
-                    <div class="offer-card mega-hover" data-bg-src="assets/img/bg/cta_bg_2_2.jpg"><span
-                            class="h6 box-subtitle">Get Extra <span class="text-theme">60% Off</span></span>
-                        <h3 class="box-title">Organic Vegetable &<br>Fresh Fruits</h3><a href="shop-details.html"
-                            class="th-btn">Shop Now<i class="fas fa-chevrons-right ms-2"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
     <section class="overflow-hidden bg-smoke2 space" id="service-sec" data-bg-src="assets/img/bg/service_bg_1.png">
         <div class="container">
             <div class="row justify-content-center">
@@ -225,7 +186,6 @@
                             <h3 class="box-title"><a href="#">Fresh Fox Nuts</a></h3>
                             <p class="box-text">Makhana is available here in absolutely fresh condition.</p>
                         </div>
-                        <!-- <a href="service-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a> -->
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-6">
@@ -237,7 +197,6 @@
                             <p class="box-text">Our formula enriches your
                                 plants with essential nutrients for robust growth and abundant yields.</p>
                         </div>
-                        <!-- <a href="service-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a> -->
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-6">
@@ -248,214 +207,11 @@
                             <h3 class="box-title"><a href="#">Natural Fox Nuts</a></h3>
                             <p class="box-text">Vyas Export Provide 100% Natural Fox Nuts.</p>
                         </div>
-                        <!-- <a href="service-details.html" class="icon-btn"><i class="far fa-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-    <!-- =============================== Selling Section START=============================== -->
-
-    <!-- <section class="space">
-        <div class="container">
-            <div class="row justify-content-lg-between justify-content-center align-items-end">
-                <div class="col-lg">
-                    <div class="title-area text-center text-lg-start"><span class="sub-title"><img
-                                src="assets/img/theme-img/title_icon.svg" alt="Icon">Organic Products</span>
-                        <h2 class="sec-title">Organic & Fresh Products Daily!</h2>
-                    </div>
-                </div>
-                <div class="col-lg-auto d-none d-lg-block">
-                    <div class="sec-btn">
-                        <div class="icon-box"><button data-slider-prev="#productSlider1" class="slider-arrow default"><i
-                                    class="far fa-arrow-left"></i></button> <button data-slider-next="#productSlider1"
-                                class="slider-arrow default"><i class="far fa-arrow-right"></i></button></div>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper th-slider has-shadow" id="productSlider1"
-                data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"2"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"3"},"1200":{"slidesPerView":"4"}}}'>
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="th-product product-grid">
-                            <div class="product-img"><img src="assets/img/product/product_1_1.jpg" alt="Product Image">
-                                <span class="product-tag">Hot</span>
-                                <div class="actions"><a href="#QuickView" class="icon-btn popup-content"><i
-                                            class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i
-                                            class="far fa-cart-plus"></i></a> <a href="wishlist.html"
-                                        class="icon-btn"><i class="far fa-heart"></i></a></div>
-                            </div>
-                            <div class="product-content"><a href="shop-details.html" class="product-category">Fresh
-                                    Fruits</a>
-                                <h3 class="product-title"><a href="shop-details.html">Bosco Apple Fruit</a></h3><span
-                                    class="price">$177.85</span>
-                                <div class="woocommerce-product-rating"><span class="count">(120 Reviews)</span>
-                                    <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span>Rated
-                                            <strong class="rating">5.00</strong> out of 5 based on <span
-                                                class="rating">1</span> customer rating</span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-product product-grid">
-                            <div class="product-img"><img src="assets/img/product/product_1_2.jpg" alt="Product Image">
-                                <span class="product-tag">New</span>
-                                <div class="actions"><a href="#QuickView" class="icon-btn popup-content"><i
-                                            class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i
-                                            class="far fa-cart-plus"></i></a> <a href="wishlist.html"
-                                        class="icon-btn"><i class="far fa-heart"></i></a></div>
-                            </div>
-                            <div class="product-content"><a href="shop-details.html"
-                                    class="product-category">Vegetables</a>
-                                <h3 class="product-title"><a href="shop-details.html">Green Cauliflower</a></h3><span
-                                    class="price">$39.85</span>
-                                <div class="woocommerce-product-rating"><span class="count">(120 Reviews)</span>
-                                    <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span>Rated
-                                            <strong class="rating">5.00</strong> out of 5 based on <span
-                                                class="rating">1</span> customer rating</span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-product product-grid">
-                            <div class="product-img"><img src="assets/img/product/product_1_3.jpg" alt="Product Image">
-                                <span class="product-tag">Hot</span>
-                                <div class="actions"><a href="#QuickView" class="icon-btn popup-content"><i
-                                            class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i
-                                            class="far fa-cart-plus"></i></a> <a href="wishlist.html"
-                                        class="icon-btn"><i class="far fa-heart"></i></a></div>
-                            </div>
-                            <div class="product-content"><a href="shop-details.html"
-                                    class="product-category">Vegetables</a>
-                                <h3 class="product-title"><a href="shop-details.html">Mandarin orange</a></h3><span
-                                    class="price">$96.85</span>
-                                <div class="woocommerce-product-rating"><span class="count">(120 Reviews)</span>
-                                    <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span>Rated
-                                            <strong class="rating">5.00</strong> out of 5 based on <span
-                                                class="rating">1</span> customer rating</span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-product product-grid">
-                            <div class="product-img"><img src="assets/img/product/product_1_4.jpg" alt="Product Image">
-                                <span class="product-tag">Sale</span>
-                                <div class="actions"><a href="#QuickView" class="icon-btn popup-content"><i
-                                            class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i
-                                            class="far fa-cart-plus"></i></a> <a href="wishlist.html"
-                                        class="icon-btn"><i class="far fa-heart"></i></a></div>
-                            </div>
-                            <div class="product-content"><a href="shop-details.html" class="product-category">Fresh
-                                    Fruits</a>
-                                <h3 class="product-title"><a href="shop-details.html">Shallot Red onion</a></h3><span
-                                    class="price">$08.85<del>$06.99</del></span>
-                                <div class="woocommerce-product-rating"><span class="count">(120 Reviews)</span>
-                                    <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span>Rated
-                                            <strong class="rating">5.00</strong> out of 5 based on <span
-                                                class="rating">1</span> customer rating</span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-product product-grid">
-                            <div class="product-img"><img src="assets/img/product/product_1_5.jpg" alt="Product Image">
-                                <span class="product-tag">New</span>
-                                <div class="actions"><a href="#QuickView" class="icon-btn popup-content"><i
-                                            class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i
-                                            class="far fa-cart-plus"></i></a> <a href="wishlist.html"
-                                        class="icon-btn"><i class="far fa-heart"></i></a></div>
-                            </div>
-                            <div class="product-content"><a href="shop-details.html" class="product-category">Fresh
-                                    Fruits</a>
-                                <h3 class="product-title"><a href="shop-details.html">Sour Red Cherry</a></h3><span
-                                    class="price">$32.85</span>
-                                <div class="woocommerce-product-rating"><span class="count">(120 Reviews)</span>
-                                    <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span>Rated
-                                            <strong class="rating">5.00</strong> out of 5 based on <span
-                                                class="rating">1</span> customer rating</span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-product product-grid">
-                            <div class="product-img"><img src="assets/img/product/product_1_6.jpg" alt="Product Image">
-                                <span class="product-tag">Hot</span>
-                                <div class="actions"><a href="#QuickView" class="icon-btn popup-content"><i
-                                            class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i
-                                            class="far fa-cart-plus"></i></a> <a href="wishlist.html"
-                                        class="icon-btn"><i class="far fa-heart"></i></a></div>
-                            </div>
-                            <div class="product-content"><a href="shop-details.html" class="product-category">Fresh
-                                    Fruits</a>
-                                <h3 class="product-title"><a href="shop-details.html">Strawberry Fruits</a></h3><span
-                                    class="price">$30.85</span>
-                                <div class="woocommerce-product-rating"><span class="count">(120 Reviews)</span>
-                                    <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span>Rated
-                                            <strong class="rating">5.00</strong> out of 5 based on <span
-                                                class="rating">1</span> customer rating</span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-product product-grid">
-                            <div class="product-img"><img src="assets/img/product/product_1_7.jpg" alt="Product Image">
-                                <span class="product-tag">New</span>
-                                <div class="actions"><a href="#QuickView" class="icon-btn popup-content"><i
-                                            class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i
-                                            class="far fa-cart-plus"></i></a> <a href="wishlist.html"
-                                        class="icon-btn"><i class="far fa-heart"></i></a></div>
-                            </div>
-                            <div class="product-content"><a href="shop-details.html" class="product-category">Fresh
-                                    Fruits</a>
-                                <h3 class="product-title"><a href="shop-details.html">Six Ripe Banana</a></h3><span
-                                    class="price">$232.85</span>
-                                <div class="woocommerce-product-rating"><span class="count">(120 Reviews)</span>
-                                    <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span>Rated
-                                            <strong class="rating">5.00</strong> out of 5 based on <span
-                                                class="rating">1</span> customer rating</span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="th-product product-grid">
-                            <div class="product-img"><img src="assets/img/product/product_1_8.jpg" alt="Product Image">
-                                <span class="product-tag">Hot</span>
-                                <div class="actions"><a href="#QuickView" class="icon-btn popup-content"><i
-                                            class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i
-                                            class="far fa-cart-plus"></i></a> <a href="wishlist.html"
-                                        class="icon-btn"><i class="far fa-heart"></i></a></div>
-                            </div>
-                            <div class="product-content"><a href="shop-details.html" class="product-category">Fresh
-                                    Meat</a>
-                                <h3 class="product-title"><a href="shop-details.html">Sausage Ribs Beef</a></h3><span
-                                    class="price">$30.85</span>
-                                <div class="woocommerce-product-rating"><span class="count">(120 Reviews)</span>
-                                    <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span>Rated
-                                            <strong class="rating">5.00</strong> out of 5 based on <span
-                                                class="rating">1</span> customer rating</span></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="d-block d-lg-none mt-40 text-center">
-                <div class="icon-box"><button data-slider-prev="#productSlider1" class="slider-arrow default"><i
-                            class="far fa-arrow-left"></i></button> <button data-slider-next="#productSlider1"
-                        class="slider-arrow default"><i class="far fa-arrow-right"></i></button></div>
-            </div>
-        </div>
-    </section> -->
-
-    <!-- =============================== Selling Section CLOSE=============================== -->
 
     <section class="why-sec3 space" data-bg-src="assets/img/bg/why_bg_2_2.jpg">
         <div class="container">
@@ -622,93 +378,6 @@
         </div>
     </section>
 
-    <!-- <div class="bg-smoke2 space overflow-hidden" id="faq-sec" data-bg-src="assets/img/bg/faq_bg_1.png">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-5">
-                    <div class="faq-img1">
-                        <div class="img1"><img src="assets/img/normal/faq_1_1.jpg" alt="faq"></div>
-                        <div class="shape1"><img src="assets/img/bg/vector_shape_1.png" alt="shape"></div>
-                    </div>
-                </div>
-                <div class="col-xl-7 text-center text-xl-start align-self-center">
-                    <div class="ps-xl-4">
-                        <div class="title-area text-center text-xl-start"><span class="sub-title"><img
-                                    src="assets/img/theme-img/title_icon.svg" alt="Icon">Looking For Answers?</span>
-                            <h2 class="sec-title">Frequently Asked If You Have any Questions?</h2>
-                        </div>
-                        <div class="accordion" id="faqAccordion">
-                            <div class="accordion-card">
-                                <div class="accordion-header" id="collapse-item-1"><button class="accordion-button"
-                                        type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1"
-                                        aria-expanded="true" aria-controls="collapse-1">Do I need to be in when you
-                                        deliver?</button></div>
-                                <div id="collapse-1" class="accordion-collapse collapse show"
-                                    aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p class="faq-text">Our organic farm, we begin with the foundation of healthy,
-                                            nutrient-rich soil. We employ sustainable practice such as crop rotation
-                                            cover cropping and composting. This helps maintain soil fertility,
-                                            structure, and microbial diversity. By avoiding synthetic fertilizers and
-                                            pesticides, we allow natural processes to flourish.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-card">
-                                <div class="accordion-header" id="collapse-item-2"><button
-                                        class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Do
-                                        I have to order every week?</button></div>
-                                <div id="collapse-2" class="accordion-collapse collapse"
-                                    aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p class="faq-text">Our organic farm, we begin with the foundation of healthy,
-                                            nutrient-rich soil. We employ sustainable practice such as crop rotation
-                                            cover cropping and composting. This helps maintain soil fertility,
-                                            structure, and microbial diversity. By avoiding synthetic fertilizers and
-                                            pesticides, we allow natural processes to flourish.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-card">
-                                <div class="accordion-header" id="collapse-item-3"><button
-                                        class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapse-3" aria-expanded="false"
-                                        aria-controls="collapse-3">From its medieval origins the digital?</button></div>
-                                <div id="collapse-3" class="accordion-collapse collapse"
-                                    aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p class="faq-text">Our organic farm, we begin with the foundation of healthy,
-                                            nutrient-rich soil. We employ sustainable practice such as crop rotation
-                                            cover cropping and composting. This helps maintain soil fertility,
-                                            structure, and microbial diversity. By avoiding synthetic fertilizers and
-                                            pesticides, we allow natural processes to flourish.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-card">
-                                <div class="accordion-header" id="collapse-item-4"><button
-                                        class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapse-4" aria-expanded="false"
-                                        aria-controls="collapse-4">What is Your Pricing Structure?</button></div>
-                                <div id="collapse-4" class="accordion-collapse collapse"
-                                    aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p class="faq-text">Our organic farm, we begin with the foundation of healthy,
-                                            nutrient-rich soil. We employ sustainable practice such as crop rotation
-                                            cover cropping and composting. This helps maintain soil fertility,
-                                            structure, and microbial diversity. By avoiding synthetic fertilizers and
-                                            pesticides, we allow natural processes to flourish.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-
     <div class="bg-top-center space-top" data-bg-src="assets/img/bg/gallery_bg_1.jpg">
         <div class="container">
             <div class="row justify-content-lg-between justify-content-center align-items-end">
@@ -829,182 +498,6 @@
         </div>
     </div>
     <br><br><br>
-
-    <!-- <section class="overflow-hidden space" id="testi-sec">
-        <div class="container">
-            <div class="title-area text-center"><span class="sub-title"><img src="assets/img/theme-img/title_icon.svg"
-                        alt="Icon">Testimonials</span>
-                <h2 class="sec-title">Our Customer Feedback</h2>
-            </div>
-            <div class="testi-box-area" data-bg-src="assets/img/bg/testi_bg_2.png">
-                <div class="testi-box-img"><img src="assets/img/testimonial/testi_2_1.jpg" alt="Image"></div>
-                <div class="testi-box-shape"><img src="assets/img/bg/testi_box_shape.png" alt="image"></div>
-                <div class="testi-box-slide">
-                    <div class="swiper th-slider" id="testiSlide2" data-slider-options='{"effect":"slide"}'>
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="testi-box">
-                                    <p class="testi-box_text">“Diversity is a cornerstone of our farming philosophy. We
-                                        carefully select a wide range of crops, ensuring a varied and balanced
-                                        ecosystem. This not only helps to naturally deter pests and diseases but also
-                                        promotes soil health by varying the nutrient demands of different plants.”</p>
-                                    <h3 class="testi-box_name">Angelina Margret</h3><span
-                                        class="testi-box_desig">Customer of Our Shop</span>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="testi-box">
-                                    <p class="testi-box_text">“Diversity is a cornerstone of our farming philosophy. We
-                                        carefully select a wide range of crops, ensuring a varied and balanced
-                                        ecosystem. This not only helps to naturally deter pests and diseases but also
-                                        promotes soil health by varying the nutrient demands of different plants.”</p>
-                                    <h3 class="testi-box_name">Alexan Micelito</h3><span
-                                        class="testi-box_desig">Customer of Our Shop</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testi-box_quote"><img src="assets/img/testimonial/quote_1.png" alt="Image"></div>
-                    <div class="icon-box"><button data-slider-prev="#testiSlide2" class="slider-arrow default"><i
-                                class="far fa-arrow-left"></i></button> <button data-slider-next="#testiSlide2"
-                            class="slider-arrow default"><i class="far fa-arrow-right"></i></button></div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
-
-    <!-- <section class="overflow-hidden space bg-smoke2" id="blog-sec">
-        <div class="shape-mockup" data-top="0" data-left="0"><img src="assets/img/shape/vector_shape_1.png" alt="shape">
-        </div>
-        <div class="shape-mockup" data-bottom="0" data-right="0"><img src="assets/img/shape/vector_shape_2.png"
-                alt="shape"></div>
-        <div class="container">
-            <div class="row justify-content-lg-between justify-content-center align-items-end">
-                <div class="col-lg">
-                    <div class="title-area text-center text-lg-start"><span class="sub-title"><img
-                                src="assets/img/theme-img/title_icon.svg" alt="Icon">Blog & News</span>
-                        <h2 class="sec-title">Latest Updates & News</h2>
-                    </div>
-                </div>
-                <div class="col-lg-auto d-none d-lg-block">
-                    <div class="sec-btn"><a href="blog.html" class="th-btn">View More Post<i
-                                class="fas fa-chevrons-right ms-2"></i></a></div>
-                </div>
-            </div>
-            <div class="row gy-4">
-                <div class="col-xl-6">
-                    <div class="blog-box">
-                        <div class="blog-img"><img src="assets/img/blog/blog_2_1.jpg" alt="blog image"></div>
-                        <div class="blog-content">
-                            <div class="blog-meta"><a href="blog.html"><i class="far fa-user"></i>By Frutin</a> <a
-                                    href="blog.html"><i class="far fa-calendar"></i>15 March, 2023</a></div>
-                            <h3 class="box-title"><a href="blog-details.html">Change Your Eating Habits With Organic
-                                    Food</a></h3>
-                            <p class="box-text">Organic foods can be more expensive due to the labor-intensive nature.
-                            </p><a href="blog-details.html" class="th-btn">Read More<i
-                                    class="fas fa-chevrons-right ms-2"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="blog-box">
-                        <div class="blog-img"><img src="assets/img/blog/blog_2_2.jpg" alt="blog image"></div>
-                        <div class="blog-content">
-                            <div class="blog-meta"><a href="blog.html"><i class="far fa-user"></i>By Frutin</a> <a
-                                    href="blog.html"><i class="far fa-calendar"></i>16 March, 2023</a></div>
-                            <h3 class="box-title"><a href="blog-details.html">Transform Your Nutrition with Organic
-                                    Meal</a></h3>
-                            <p class="box-text">Organic foods can be more expensive due to the labor-intensive nature.
-                            </p><a href="blog-details.html" class="th-btn">Read More<i
-                                    class="fas fa-chevrons-right ms-2"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="blog-box">
-                        <div class="blog-img"><img src="assets/img/blog/blog_2_3.jpg" alt="blog image"></div>
-                        <div class="blog-content">
-                            <div class="blog-meta"><a href="blog.html"><i class="far fa-user"></i>By Frutin</a> <a
-                                    href="blog.html"><i class="far fa-calendar"></i>17 March, 2023</a></div>
-                            <h3 class="box-title"><a href="blog-details.html">Improve Your Health By Organic Eating</a>
-                            </h3>
-                            <p class="box-text">Organic foods can be more expensive due to the labor-intensive nature.
-                            </p><a href="blog-details.html" class="th-btn">Read More<i
-                                    class="fas fa-chevrons-right ms-2"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="blog-box">
-                        <div class="blog-img"><img src="assets/img/blog/blog_2_4.jpg" alt="blog image"></div>
-                        <div class="blog-content">
-                            <div class="blog-meta"><a href="blog.html"><i class="far fa-user"></i>By Frutin</a> <a
-                                    href="blog.html"><i class="far fa-calendar"></i>19 March, 2023</a></div>
-                            <h3 class="box-title"><a href="blog-details.html">Organic Eating Is Great For Better
-                                    Health</a></h3>
-                            <p class="box-text">Organic foods can be more expensive due to the labor-intensive nature.
-                            </p><a href="blog-details.html" class="th-btn">Read More<i
-                                    class="fas fa-chevrons-right ms-2"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
-    <!-- <div class="py-5 mt-1 bg-smoke2">
-        <div class="container th-container py-md-4">
-            <div class="swiper th-slider" id="blogSlider1"
-                data-slider-options='{"breakpoints":{"0":{"slidesPerView":2},"576":{"slidesPerView":"2"},"768":{"slidesPerView":"3"},"992":{"slidesPerView":"4"},"1200":{"slidesPerView":"5"},"1400":{"slidesPerView":"6"}}}'>
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_1.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_2.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_3.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_4.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_5.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_6.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_7.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_1.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_2.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_3.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_4.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_5.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_6.svg" alt="Brand Logo"></div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand-box"><img src="assets/img/brand/brand_1_7.svg" alt="Brand Logo"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-
 
     <!-- ============================================ FOOTER START ============================================ -->
 
